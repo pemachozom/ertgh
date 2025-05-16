@@ -8,7 +8,7 @@
 
 ## 🛠 Projects
 - 🤖 [LagdaAI – AI Powered Sign Language to Voice Assistant](https://github.com/pemachozom/AI-Powered-Sign-Language-to-Voice-Assistant-Mobile-Application)
-- 🧑‍⚖️ [Legal Aid AI Tool](https://github.com/yourproject)
+- 🧑‍⚖️ [Hate Speech Detection](https://github.com/pemachozom/Hate-Speech-Detection)
 - 🔍 [Humalayan Hues - Platform for multipe buyers and sellers](https://group4himalayanhues.onrender.com/)
 
 ## 🧠 Skills
