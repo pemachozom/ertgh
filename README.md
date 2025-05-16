@@ -7,7 +7,7 @@
 ---
 
 ## 🛠 Projects
-- 🤖 [LagdaAI – Sign Language Translator](https://github.com/yourproject)
+- 🤖 [LagdaAI – AI Powered Sign Language to Voice Assistant](https://github.com/pemachozom/AI-Powered-Sign-Language-to-Voice-Assistant-Mobile-Application)
 - 🧑‍⚖️ [Legal Aid AI Tool](https://github.com/yourproject)
 - 🔍 [Humalayan Hues - Platform for multipe buyers and sellers](https://group4himalayanhues.onrender.com/)
 
